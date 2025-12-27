@@ -14,6 +14,8 @@ https://gltf.pmnd.rs/ - helps to load our models into three.js scene. Usually it
 
 @react-three/spring - to animate the application a.group (means animated)
 
+models will alway be mesh - if its a div,, it will not work
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
